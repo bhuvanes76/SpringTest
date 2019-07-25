@@ -18,6 +18,12 @@
 	<tr>
 		<td>Address2</td>
 	</tr>
+	<tr>
+		<td>City</td>
+	</tr>
+	<tr>
+		<td>State, Zipcode/td>
+	</tr>
 	</table>
 	
 	
