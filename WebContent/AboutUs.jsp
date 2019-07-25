@@ -22,7 +22,7 @@
 		<td>City</td>
 	</tr>
 	<tr>
-		<td>DE 19707</td>
+		<td>State, Zipcode</td>
 	</tr>
 	</table>
 	
