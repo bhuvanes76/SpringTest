@@ -7,6 +7,20 @@
 <title>About Us</title>
 </head>
 <body>
-This is About us page
+	
+	<table>
+	<tr>
+		<td>Company Name</td>
+	</tr>
+	<tr>
+		<td>Address1</td>
+	</tr>
+	<tr>
+		<td>Address2</td>
+	</tr>
+	</table>
+	
+	
+	
 </body>
 </html>
