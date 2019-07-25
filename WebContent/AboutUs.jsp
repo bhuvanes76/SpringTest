@@ -22,7 +22,7 @@
 		<td>City</td>
 	</tr>
 	<tr>
-		<td>State, Zipcode/td>
+		<td>State, Zipcode</td>
 	</tr>
 	</table>
 	
