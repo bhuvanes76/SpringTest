@@ -21,10 +21,7 @@
 	<tr>
 		<td>City</td>
 	</tr>
-	<tr>
-		<td>State, Zipcode</td>
-	</tr>
-	</table>
+		</table>
 	
 	
 	
