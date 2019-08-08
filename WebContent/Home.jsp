@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		Welcome to JSP first Jenkin deployed application
+		Welcome to JSP first Jenkin deployed application second time
 </body>
 </html>
